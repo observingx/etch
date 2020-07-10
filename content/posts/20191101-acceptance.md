@@ -3,9 +3,6 @@ title: School Acceptance!
 date: 2019-11-01T00:55:36-08:00
 lastmod: 2020-02-04T00:55:36-08:00
 author: justme
-cover: /img/school.jpg
-categories: ["Life Event"]
-tags: ["career"]
 # showcase: true
 draft: false
 ---
