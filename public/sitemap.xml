@@ -3,23 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://observingx.netlify.com/tags/books/</loc>
-    <lastmod>2020-02-23T10:24:17-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://observingx.netlify.com/categories/</loc>
-    <lastmod>2020-02-23T10:24:17-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://observingx.netlify.com/categories/learning/</loc>
-    <lastmod>2020-02-23T10:24:17-08:00</lastmod>
+    <loc>https://observingx.netlify.com/posts/my-first-post/</loc>
+    <lastmod>2020-07-09T20:12:11-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://observingx.netlify.com/</loc>
-    <lastmod>2020-02-23T10:24:17-08:00</lastmod>
+    <lastmod>2020-07-09T20:12:11-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://observingx.netlify.com/posts/</loc>
+    <lastmod>2020-07-09T20:12:11-07:00</lastmod>
   </url>
   
   <url>
@@ -28,33 +23,8 @@
   </url>
   
   <url>
-    <loc>https://observingx.netlify.com/posts/</loc>
-    <lastmod>2020-02-23T10:24:17-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://observingx.netlify.com/tags/psychology/</loc>
-    <lastmod>2020-02-23T10:24:17-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://observingx.netlify.com/tags/</loc>
-    <lastmod>2020-02-23T10:24:17-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://observingx.netlify.com/categories/life-rules/</loc>
-    <lastmod>2020-02-04T00:42:23-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://observingx.netlify.com/posts/20200120-hustlaball-vegas/</loc>
     <lastmod>2020-01-20T16:07:10-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://observingx.netlify.com/categories/queer/</loc>
-    <lastmod>2020-02-04T00:42:23-08:00</lastmod>
   </url>
   
   <url>
@@ -68,43 +38,31 @@
   </url>
   
   <url>
-    <loc>https://observingx.netlify.com/categories/life-event/</loc>
-    <lastmod>2020-02-04T00:55:36-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://observingx.netlify.com/tags/romance/</loc>
-    <lastmod>2020-02-03T15:21:14-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://observingx.netlify.com/posts/20191223-mad-at-myself-again/</loc>
-    <lastmod>2020-02-03T15:21:14-08:00</lastmod>
+    <lastmod>2019-12-23T15:21:14-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://observingx.netlify.com/posts/20191109-betraying-myself/</loc>
-    <lastmod>2020-02-04T00:42:23-08:00</lastmod>
+    <lastmod>2019-11-09T00:42:23-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://observingx.netlify.com/posts/20191103-first-time-bottoming/</loc>
-    <lastmod>2020-02-03T13:10:03-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://observingx.netlify.com/categories/romance/</loc>
-    <lastmod>2020-02-03T13:10:03-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://observingx.netlify.com/tags/career/</loc>
-    <lastmod>2020-02-04T00:55:36-08:00</lastmod>
+    <lastmod>2019-11-04T13:10:03-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://observingx.netlify.com/posts/20191101-acceptance/</loc>
-    <lastmod>2020-02-04T00:55:36-08:00</lastmod>
+    <lastmod>2019-11-01T00:55:36-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://observingx.netlify.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://observingx.netlify.com/tags/</loc>
   </url>
   
 </urlset>
