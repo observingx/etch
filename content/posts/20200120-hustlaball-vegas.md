@@ -1,9 +1,6 @@
 ---
 title: Party/Event Rule
 date: 2020-01-20T16:07:10-08:00
-lastmod: 2020-01-20T16:07:10-08:00
-author: justme
-# showcase: true
 draft: false
 ---
 

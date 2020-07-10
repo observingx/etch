@@ -1,9 +1,6 @@
 ---
 title: Romance Rule
 date: 2019-12-23T15:21:14-08:00
-lastmod: 2020-02-03T15:21:14-08:00
-author: justme
-# showcase: true
 draft: false
 --- 
 

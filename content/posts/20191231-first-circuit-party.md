@@ -1,9 +1,6 @@
 ---
 title: Communication Rule
 date: 2019-12-29T16:07:10-08:00
-lastmod: 2019-12-29T16:07:10-08:00
-author: justme
-# showcase: true
 draft: false
 ---
 

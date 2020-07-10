@@ -1,9 +1,6 @@
 ---
 title: Betraying Myself
 date: 2019-11-09T00:42:23-08:00
-lastmod: 2020-02-04T00:42:23-08:00
-author: justme
-# showcase: true
 draft: false
 ---
 

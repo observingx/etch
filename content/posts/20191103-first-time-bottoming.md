@@ -1,9 +1,6 @@
 ---
 title: First Time Bottoming
 date: 2019-11-04T13:10:03-08:00
-lastmod: 2020-02-03T13:10:03-08:00
-author: justme
-# showcase: true
 draft: false
 --- 
 
