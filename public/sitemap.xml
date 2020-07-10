@@ -3,22 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://observingx.netlify.com/posts/my-first-post/</loc>
-    <lastmod>2020-07-09T20:12:11-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://observingx.netlify.com/</loc>
-    <lastmod>2020-07-09T20:12:11-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://observingx.netlify.com/posts/</loc>
-    <lastmod>2020-07-09T20:12:11-07:00</lastmod>
+    <lastmod>2020-02-23T10:24:17-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://observingx.netlify.com/posts/20200223-outliers/</loc>
+    <lastmod>2020-02-23T10:24:17-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://observingx.netlify.com/posts/</loc>
     <lastmod>2020-02-23T10:24:17-08:00</lastmod>
   </url>
   
@@ -54,7 +49,7 @@
   
   <url>
     <loc>https://observingx.netlify.com/posts/20191101-acceptance/</loc>
-    <lastmod>2019-11-01T00:55:36-08:00</lastmod>
+    <lastmod>2020-02-04T00:55:36-08:00</lastmod>
   </url>
   
   <url>
