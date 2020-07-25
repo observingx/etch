@@ -7,8 +7,6 @@ draft: false
 
 ![School](/img/school.jpg)
 
-<!--more-->
-
 Event date: Friday, 01 Nov 2019
 
 Writing date: Friday, 01 Nov 2019
